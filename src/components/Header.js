@@ -51,7 +51,7 @@ const Header = () => {
       initial={{y:-250}}
       animate ={{y:-10}}
       transition={{ type:"spring", stiffness: 500}}>
-        <h1>Pizza Joint</h1>
+        <h1>Pizza Point</h1>
       </motion.div>
     </header>
   )
