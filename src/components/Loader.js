@@ -40,7 +40,7 @@ const Loader = () =>{
         animate={animation}>
 
         </motion.div>
-        <div onClick={() => cycleanimation()}>Cycle Loader</div>
+        <div onClick={() => cycleanimation()}></div>
         </>
     )
 }
