@@ -6,4 +6,4 @@ In the project directory, you can run:
 
 ### Deployment
 
-This is deployed as https://pizzajoint-master.vercel.app
+This is deployed as https://pizza-point.vercel.app/
